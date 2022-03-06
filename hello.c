@@ -2,5 +2,5 @@
 
 int main(void)
 {
-  printf("Hello World\nza");
+  printf("Hello World\nZA warudo dio");
 }
